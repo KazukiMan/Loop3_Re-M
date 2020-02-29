@@ -1,0 +1,30 @@
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] CustomSkinLoader 14.10a
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] DataDir: /Users/kazukiamakawa/Downloads/Re_M/.minecraft/CustomSkinLoader
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] Minecraft: 1.12.2(1.12.2)
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] Config File: /Users/kazukiamakawa/Downloads/Re_M/.minecraft/CustomSkinLoader/CustomSkinLoader.json
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] Try to load config.
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] Successfully load config.
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] version : 14.10
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] enableDynamicSkull : true
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] enableTransparentSkin : true
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] ignoreHttpsCertificate : false
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] forceLoadAllTextures : false
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] enableCape : true
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] cacheExpiry : 30
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] enableUpdateSkull : false
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] enableLocalProfileCache : false
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] enableCacheAutoClean : false
+[2020-02-29 13:26:28] [pool-7-thread-1 INFO] loadList : 6
+[2020-02-29 13:26:28] [toycraft INFO] Loading toycraft's profile.
+[2020-02-29 13:26:28] [toycraft INFO] 1/6 Try to load profile from 'Mojang'.
+[2020-02-29 13:26:28] [toycraft DEBUG] Try to request 'https://api.mojang.com/users/profiles/minecraft/toycraft'.
+[2020-02-29 13:26:28] [toycraft DEBUG] Cache file found (Length: 59 , Path: '/Users/kazukiamakawa/Downloads/Re_M/.minecraft/CustomSkinLoader/caches/ef2e3107adb125f14615ea59d99e2920cd13fd0d' , Expire: 0')
+[2020-02-29 13:26:28] [toycraft INFO] Try to load from cache '/Users/kazukiamakawa/Downloads/Re_M/.minecraft/CustomSkinLoader/caches/ef2e3107adb125f14615ea59d99e2920cd13fd0d'.
+[2020-02-29 13:26:28] [toycraft DEBUG] Successfully load from cache
+[2020-02-29 13:26:28] [toycraft DEBUG] Content: {"id":"ebec9adf41bf4de1a6a8a7386e985bce","name":"toycraft"}
+[2020-02-29 13:26:28] [toycraft DEBUG] Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/ebec9adf41bf4de1a6a8a7386e985bce'.
+[2020-02-29 13:26:30] [toycraft DEBUG] Successfully request (Response Code: 200 , Content Length: 417)
+[2020-02-29 13:26:30] [toycraft DEBUG] Saved to cache (Length: 417 , Path: '/Users/kazukiamakawa/Downloads/Re_M/.minecraft/CustomSkinLoader/caches/0939d1bd87cf6ca1b215f95871c4ad96c1689429' , Expire: 1582954083)
+[2020-02-29 13:26:30] [toycraft DEBUG] Content: {"id":"ebec9adf41bf4de1a6a8a7386e985bce","name":"toycraft","properties":[{"name":"textures","value":"eyJ0aW1lc3RhbXAiOjE1ODI5NTM5OTI1ODksInByb2ZpbGVJZCI6ImViZWM5YWRmNDFiZjRkZTFhNmE4YTczODZlOTg1YmNlIiwicHJvZmlsZU5hbWUiOiJ0b3ljcmFmdCIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDdmMTk5NTI1ZTdlYmViMWM0N2ZhN2Y4ODgxZmU2YmViNWZiOTUwZGU2ZDY5OGE1ODUyN2UzYzE4ZGU4Y2RjIn19fQ=="}]}
+[2020-02-29 13:26:30] [toycraft INFO] toycraft's profile loaded.
+[2020-02-29 13:26:30] [toycraft INFO] (SkinUrl: http://textures.minecraft.net/texture/b07f199525e7ebeb1c47fa7f8881fe6beb5fb950de6d698a58527e3c18de8cdc , Model: default , CapeUrl: null  , Expiry: 1582954021)
